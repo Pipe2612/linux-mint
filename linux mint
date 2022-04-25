@@ -1,0 +1,27 @@
+arch
+uname -m
+uname -r
+dmidecode -q
+hdparm -i /dev/hda
+hd parm -tT /dev/sda
+catv/proc/swaps
+cat /proc/mount
+date
+clock -w
+shutdown -h now
+init 0
+halt
+poweroff
+logout
+man
+info
+history
+rmdir
+mkdir
+tree
+basename
+comm
+cat 
+cut
+diff
+dirname 
